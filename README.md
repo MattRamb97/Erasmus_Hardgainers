@@ -1,5 +1,5 @@
 <p align="center">
-# Erasmus Hardgainers
+ <h1>Erasmus Hardgainers</h1>
 </p>
 
 
