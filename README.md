@@ -12,3 +12,8 @@ Welcome to Erasmus_Hardgainers project, your go-to destination for delectable na
    - without cleaning the quantities of the ingredients
    - train of the model on prompt: ingredients -> get title and instructions (1000 raws)
    - evaluate the model on prompt: ingredients -> get title and instructions
+3. **Recipes_model_v4.ipynb**:
+   - concanating together all the ingredients
+   - cleaning the quantities of the ingredients
+   - train of the model on prompt: ingredients -> get title and instructions (5000 raws)
+   - evaluate the model on prompt: ingredients -> get title and instructions
