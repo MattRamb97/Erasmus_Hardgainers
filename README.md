@@ -4,13 +4,13 @@ Welcome to Erasmus_Hardgainers project, your go-to destination for delectable na
 
 1. Recipes_model.ipynb:
    - without concanate together all the ingredients
-   - without cleaning the measures of the ingredients
+   - without cleaning the quantities of the ingredients
    - train of the model on prompt: title -> get ingredients and instructions
    - evaluate the model on prompt: ingredients -> get title and instructions
    Training made with 200 raws of the dataset
 2. Recipes_model_v3.ipynb:
    - concanating together all the ingredients
-   - without cleaning the measures of the ingredients
+   - without cleaning the quantities of the ingredients
    - train of the model on prompt: ingredients -> get title and instructions
    - evaluate the model on prompt: ingredients -> get title and instructions
    Training made with 1000 raws of the dataset
