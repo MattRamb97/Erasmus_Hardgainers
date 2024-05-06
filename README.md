@@ -25,5 +25,5 @@ NVIDIA H100 (80GiB) 1 GPUs x 31 CPUs | 177GiB
 1. **Recipes_model_v4.ipynb**:
    - concanating together all the ingredients
    - cleaning the quantities of the ingredients
-   - train of the model on prompt: ingredients -> get title and instructions (all raws)
+   - train of the model on prompt: ingredients -> get title and instructions (19761 raws)
    - evaluate the model on prompt: ingredients -> get title and instructions
