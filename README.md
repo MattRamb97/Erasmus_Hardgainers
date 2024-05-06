@@ -19,7 +19,7 @@ NVIDIA RTX 4090 (24GiB) 1 GPUs x 16 CPUs | 62GiB
    - train of the model on prompt: ingredients -> get title and instructions (5000 raws)
    - evaluate the model on prompt: ingredients -> get title and instructions
 
-NVIDIA H100 (80GiB) 2 GPUs x 63 CPUs | 354GiB
+NVIDIA H100 (80GiB) 1 GPUs x 31 CPUs | 177GiB
 1. **Recipes_model_v4.ipynb**:
    - concanating together all the ingredients
    - cleaning the quantities of the ingredients
